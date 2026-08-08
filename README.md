@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3356-zero-array-transformation-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3356-zero-array-transformation-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1518-water-bottles) |
+| [3477-fruits-into-baskets-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3356-zero-array-transformation-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3356-zero-array-transformation-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
