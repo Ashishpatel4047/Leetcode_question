@@ -6,12 +6,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0018-4sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3356-zero-array-transformation-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3356-zero-array-transformation-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0018-4sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3356-zero-array-transformation-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3356-zero-array-transformation-ii) |
 ## Greedy
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0018-4sum) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
