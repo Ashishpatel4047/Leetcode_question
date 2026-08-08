@@ -22,9 +22,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1518-water-bottles) |
 ## Simulation
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1518-water-bottles) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1137-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
