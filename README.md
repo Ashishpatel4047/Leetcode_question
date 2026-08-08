@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
+## Math
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1518-water-bottles) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
