@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0326-power-of-three) |
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
