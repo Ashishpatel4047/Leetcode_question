@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0904-fruit-into-baskets) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1089-duplicate-zeros) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
