@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3356-zero-array-transformation-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3356-zero-array-transformation-ii) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1089-duplicate-zeros) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3356-zero-array-transformation-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3356-zero-array-transformation-ii) |
 ## Greedy
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3356-zero-array-transformation-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3356-zero-array-transformation-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3477-fruits-into-baskets-ii) |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0904-fruit-into-baskets](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0904-fruit-into-baskets) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
