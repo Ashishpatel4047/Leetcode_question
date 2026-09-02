@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0118-pascals-triangle) |
 | [0485-max-consecutive-ones](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0904-fruit-into-baskets) |
+| [0941-valid-mountain-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1295-find-numbers-with-even-number-of-digits) |
