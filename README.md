@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1518-water-bottles) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3477-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Bracket Sequences
 |  |
 | ------- |
