@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0118-pascals-triangle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0904-fruit-into-baskets) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0905-sort-array-by-parity) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3356-zero-array-transformation-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3356-zero-array-transformation-ii) |
