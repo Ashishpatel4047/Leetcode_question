@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3356-zero-array-transformation-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3356-zero-array-transformation-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3356-zero-array-transformation-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3356-zero-array-transformation-ii) |
 ## Greedy
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3356-zero-array-transformation-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3356-zero-array-transformation-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/3477-fruits-into-baskets-ii) |
 ## Prefix Sum
