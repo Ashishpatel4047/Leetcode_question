@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0905-sort-array-by-parity) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0326-power-of-three) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -184,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
