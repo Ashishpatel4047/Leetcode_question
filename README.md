@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0905-sort-array-by-parity) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -148,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0349-intersection-of-two-arrays) |
 | [0904-fruit-into-baskets](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1358-number-of-substrings-containing-all-three-characters) |
