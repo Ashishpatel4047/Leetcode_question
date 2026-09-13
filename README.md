@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0118-pascals-triangle) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0231-power-of-two) |
