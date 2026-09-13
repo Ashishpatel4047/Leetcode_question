@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0283-move-zeroes) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0202-happy-number) |
 | [0904-fruit-into-baskets](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -191,10 +193,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ashishpatel4047/Leetcode_question/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
